@@ -30,9 +30,9 @@ Two different rotation implementations are provided:
 
 ## Directory Structure
 
-├── v3.cpp # Iterative pixel rotation implementation
-├── v3rec.cpp # Recursive pixel rotation implementation
-├── images/ # Folder containing PNG files to be processed
+- v3.cpp # Iterative pixel rotation implementation
+- v3rec.cpp # Recursive pixel rotation implementation
+- images/ # Folder containing PNG files to be processed
 
 ---
 
